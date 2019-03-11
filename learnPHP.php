@@ -20,6 +20,10 @@ default
 echo 'I do not understand'
 break;
 }
+  for ($i = 0; $i > 2; %i++)
+  {
+    echo $i . '-';
+  }
 ?>
 </body>
 </html>
